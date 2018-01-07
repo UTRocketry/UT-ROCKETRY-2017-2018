@@ -1,0 +1,16 @@
+(module ANT-433-HESM (layer F.Cu) (tedit 5A239B27)
+  (fp_text reference REF** (at -0.2 3.6) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ANT-433-HESM (at -17.1 1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -19.1 9.072) (end -19.1 6.1) (layer F.SilkS) (width 0.15))
+  (fp_line (start -19.1 2.9) (end -19.1 -0.1) (layer F.SilkS) (width 0.15))
+  (fp_line (start -19.1 -0.1) (end 19 -0.1) (layer F.SilkS) (width 0.15))
+  (fp_line (start -19.1 9.072) (end 19 9.072) (layer F.SilkS) (width 0.15))
+  (fp_line (start 19 9.072) (end 19 6.1) (layer F.SilkS) (width 0.15))
+  (fp_line (start 19 2.9) (end 19 -0.1) (layer F.SilkS) (width 0.15))
+  (pad 1 thru_hole circle (at -19.1 4.5) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 19 4.5) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask))
+)
