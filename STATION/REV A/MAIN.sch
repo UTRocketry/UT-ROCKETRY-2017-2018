@@ -28,21 +28,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:AX5043
-LIBS:sip12109dmp-t1-ge4
-LIBS:sam-m8q-0
-LIBS:MPU-9250
-LIBS:502570-0893
-LIBS:push_sw
-LIBS:rt9018a-25gsp
-LIBS:sc1592istrt
 LIBS:MAIN-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "AX5043 Development"
+Title "AX5043 GROUND STATION"
 Date "2017-11-02"
 Rev "A"
 Comp "University Of Toledo Rocketry Club"

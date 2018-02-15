@@ -1,4 +1,4 @@
-update=Wed 10 Jan 2018 10:41:42 PM EST
+update=Sun 03 Dec 2017 04:18:26 PM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -66,13 +76,3 @@ LibName34=/home/cameron/Desktop/ELECTRONICS PROJECTS/HARDWARE/UT ROCKETRY 2017 2
 LibName35=/home/cameron/Desktop/ELECTRONICS PROJECTS/HARDWARE/UT ROCKETRY 2017 2018/LIB/push_sw
 LibName36=/home/cameron/Desktop/ELECTRONICS PROJECTS/HARDWARE/UT ROCKETRY 2017 2018/LIB/rt9018a-25gsp
 LibName37=/home/cameron/Desktop/ELECTRONICS PROJECTS/HARDWARE/UT ROCKETRY 2017 2018/LIB/sc1592istrt
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
